@@ -5,3 +5,7 @@ edition = "2024"
 
 [dependencies]
 num-traits = "0.2.19"
+
+[lib]
+name = "ralgo"
+path = "src/lib.rs"
